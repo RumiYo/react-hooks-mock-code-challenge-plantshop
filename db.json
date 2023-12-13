@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Calathea",
+      "image": "./images/calathea.jpg",
+      "price": 12.11,
+      "id": 8
+    },
+    {
+      "name": "Aloe (Small)",
+      "image": "./images/aloe.jpg",
+      "price": 10.22,
+      "id": 11
+    },
+    {
+      "name": "Jade (Small)",
+      "image": "./images/jade.jpg",
+      "price": 8.43,
+      "id": 13
+    },
+    {
+      "name": "Aloe (Large)",
+      "image": "./images/aloe.jpg",
+      "price": 18.32,
+      "id": 14
     }
   ]
 }
